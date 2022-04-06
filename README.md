@@ -6,3 +6,11 @@ However, the original minepy is a bit mess because it aims to the core function,
 Therefore, this project try to wrap Pandas and Plotly to ... eh ... Make MINE Great Again?(LOL) 
 
 To be honest, this project target is to make MINE more easy to be used by myself, but I think someone will also like to try it.
+
+## Todo
+
+requirement.txt
+
+plot matrix function for the whole sets.
+
+return the set of figure which are required, like mic > 0.1

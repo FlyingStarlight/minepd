@@ -7,11 +7,14 @@ Therefore, this project try to wrap Pandas and Plotly to ... eh ... Make MINE Gr
 
 To be honest, this project target is to make MINE more easy to be used by myself, but I think someone will also like to try it.
 
-## how
-[code=python]
-import minepy
-get_mine(df, y_col)
-[/code]
+## How
+import minepd as mpd
+
+mpd.get_mine(df, y_col)
+
+df is the dataframe contains all data you want to evaluate
+
+y_col is the targets or futures list, like ["heart_disease", "brain_disease"]
 
 ## Todo
 

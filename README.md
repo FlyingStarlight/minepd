@@ -7,6 +7,12 @@ Therefore, this project try to wrap Pandas and Plotly to ... eh ... Make MINE Gr
 
 To be honest, this project target is to make MINE more easy to be used by myself, but I think someone will also like to try it.
 
+## how
+[code=python]
+import minepy
+get_mine(df, y_col)
+[/code]
+
 ## Todo
 
 requirement.txt
